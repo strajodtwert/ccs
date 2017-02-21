@@ -1,7 +1,7 @@
 {
     "room": "BalkanMusic",
     "author": "strajo98",
-    "icon": "http://imgur.com/rw4xkoy",
+    "icon": "https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/room-icon.png",
     "css": "https://rawgit.com/Fireleaf123/plugthemes/master/ncr-theme.css",
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "https://cdn.bssecure.net/nc-themes/img/adGS_sBG_Theme.png",
+        "background": "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/background/default/custom.jpg",
         "playback": "https://dl.dropboxusercontent.com/u/88923879/meepplay.png",
         "admin": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Admin.png",
         "ambassador": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png",
