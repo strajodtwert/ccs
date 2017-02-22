@@ -1,0 +1,585 @@
+#footer { opacity: 0.7; }
+.origem-menu-icon {
+  background: url('http://i.imgur.com/E1p0cGj.png');
+  background-size: 34px;
+  background-repeat: no-repeat;
+  background-position: 9px 9px;
+  height: 100%;
+  cursor: pointer;
+}
+.origem-menu-opener {
+  width: 53px;
+  height: 52px;
+  position: absolute;
+  background-color: #1C1F25 !important;
+  border-right: 1px solid #0a0a0a;
+  top: 0px;
+  z-index: 20;
+}
+#playback .background {
+	visibility: hidden;
+  }
+.ow-helper .un::before, div[data-cid~="ow-helper"] .un::before {
+  background: url('http://i.imgur.com/MzIau7o.png');
+}
+.ow-vip3 .un::before, div[data-cid~="ow-vip3"] .un::before {
+  background: url('http://i.imgur.com/yfzCrpY.png');
+}
+.origem-menu-heading {
+  color: #0A65D2;
+}
+.origem-menu-element input[type=checkbox]:checked + 
+.origem-checkmark, 
+.origem-menu-element input[type=radio]:checked + 
+.origem-checkmark {
+  position: absolute;
+  top: -1px;
+  right: 0;
+  width: 33px;
+  height: 28px;
+  background: url('http://i.imgur.com/RuRvnpQ.png');
+}
+.origem-menu-submenu 
+.origem-submenu-heading {
+  font-size: 14px;
+  text-align: center;
+  color: #0A65D2;
+  border: none;
+  margin: 15px 10px;
+  font-weight: bold !important;
+}
+.origem-menu-opener {
+  width: 53px;
+  height: 52px;
+  position: absolute;
+  background-color: #282c35;
+  border-right: 1px solid #0a0a0a;
+  top: 0px;
+  z-index: 20;
+}
+.owLinks:hover {
+  color: #0A65D2;
+}
+.origem-color-cohost{ 
+  color: #006eff;
+}
+.origem-color-manager{ 
+  color: #00c7ff;
+}
+.origem-color-bouncer{ 
+  color: #89efff;
+}
+.origem-color-dj{ 
+  color: #9bffda;
+}
+.pm-user-content.selected:nth-child(2n+1) {
+  background: linear-gradient(#111, #000) !important;
+}
+#playback .background {
+	visibility: hidden;
+  }
+.pm-user-content.selected {
+  background: linear-gradient(hsl(220, 10%, 20%), hsl(220,10%,15%)) !important;
+  box-shadow: inset 0 0 10px 2px hsl(239, 100%, 50%) !important;
+}
+.pm-user-content {
+  padding-left: 5px;
+}
+.pm-msg-username {
+  background: linear-gradient(hsla(0, 0%, 23%, 1), hsla(0, 0%, 13%, 1)) !important;
+  border: 2px rgb(0, 0, 0) solid;
+  border-radius: 5px;
+  box-shadow: inset 1px 2px 20px hsla(200, 50%, 60%, 0);
+}
+#pm-users-container {
+  background: rgba(47, 47, 47, 0.47);
+}
+div[class^="pm-from-"] {
+  display: inline-block;
+  max-width: 220px !important;
+}  
+.pm-me {
+  float: right;
+  padding-left: 5px;
+  max-width: 220px;
+  display: inline-block;
+  text-align: left;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px !important;
+  box-shadow: inset 0 0 10px rgba(16, 0, 255, 1) !important;
+}
+::-webkit-scrollbar {
+  width: 13px !important;
+  background: rgba(0, 0, 0, 0.72) !important;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.62) !important;
+  border-radius: 10px !important;
+}
+.icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
+  color: #00c7ff !important;
+  font-weight: bold;
+}
+.icon-chat-cohost ~ .text > .name, .icon-chat-cohost ~ .from, .icon-chat-cohost ~ span {
+  color: #006eff !important;
+  font-weight: bold;
+}
+.icon-chat-host ~ .text > .name, .icon-chat-host ~ .from, .icon-chat-host ~ span {
+  color: #006eff !important;
+  font-weight: bold;
+}
+.icon-chat-bouncer ~ .text > .name, .icon-chat-bouncer ~ .from, .icon-chat-bouncer ~ span {
+  color: #89efff !important;
+  font-weight: bold;
+}
+.icon-chat-dj ~ .text > .name, .icon-chat-dj ~ .from, .icon-chat-dj ~ span {
+  color: #9bffda !important;
+  font-weight: bold;
+}
+#playlist-button {
+  background: #ac76ff;
+}
+#your-active-playlist > .icon-check-purple{ 
+  background: url('http://i.imgur.com/RuRvnpQ.png') !important; 
+  top: 15px; 
+}
+#user-menu .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#footer-user .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#room-bar .icon-room { 
+  background-image: url('http://i.imgur.com/dtjHgLQ.png');  
+  top: 11px;
+  left: 6px;
+}
+#dashboard .icon-grab {  
+  background: url('http://i.imgur.com/DGOLuAK.png');  
+}
+#volume .slider .line, 
+#user-settings .container .cap .slider .bar {
+  background: #0A65D2;
+}
+#vote .crowd-response.disabled .bottom {
+  background: #222224;
+}
+#dj-button .left,
+#dj-button.is-quit .left, 
+#dj-button.is-leave .left, 
+#dj-button.is-wait .left, 
+#dj-button.is-locked .left, 
+#dj-button.is-full .left {
+  background: #0A65D2;
+  box-shadow: 0 0 10px rgba(158, 30, 11, 0) !important; 
+}
+#dj-button {
+  background: #222224;
+}
+#vote .crowd-response {
+  background: #222224;
+}
+#woot .bottom, 
+#woot.selected {
+  background: #90ad2f;
+}
+#grab .bottom, 
+#grab.selected {
+  background: #aa74ff;
+}
+#grab {
+  margin-left: -1px;
+}
+#meh .bottom, 
+#meh.selected {
+  background: #c42e3b;
+}
+#meh {
+  margin-left: -1px;
+}
+#woot i {
+  background: url('http://i.imgur.com/5eU6OHQ.png'); 
+}
+#meh i {
+  background: url('http://i.imgur.com/3uSXauE.png');
+}
+#grab i {
+  background: url('http://i.imgur.com/9DCOayJ.png');
+}
+#vote .crowd-response .top i {
+  position: relative;
+  display: inline-block;
+  margin: 0 -1px 0 -1px;
+  top: 7px;
+  background-repeat: no-repeat;
+}
+#vote .crowd-response .top .label {
+  position: relative;
+  display: inline-block;
+  top: -6px;
+  margin-left: -5px;
+}
+.focused {
+  box-shadow: inset 0 0 0 0.1em #0A65D2 !important;	
+}
+.tab-menu button.selected {
+  background: #0A65D2;
+  border-radius: 30px;
+}
+.tab-menu button {
+  border-radius: 30px;
+}
+.thumb {
+  border: 2px solid #0A65D2;
+  border-radius: 50%;
+}
+#playlist-menu .menu .row.selected {
+  background: #003171;
+  cursor: default;
+  border-radius: 20px;
+}
+#playlist-menu .menu .row .count {
+  color: #0072FF;
+  font-weight: bold;
+}
+#playlist-activate-button {
+  background: #003171;
+  border-radius: 20px 0 0 20px;
+}
+#playlist-button {
+  background: linear-gradient(to bottom,#0A65D2 0,#022D61 100%);
+}
+#playlist-edit-button:hover {
+  background: linear-gradient(to bottom,#0367E5 0,#03397B 100%);
+}
+#playlist-shuffle-button:hover {
+  background: linear-gradient(to bottom,#914AFF 0,#3A2366 100%);
+}
+#playlist-delete-button:hover {
+  background: linear-gradient(to bottom,#FF0000 0,#7E0000 100%);
+}
+#search-bar {
+  border-radius: 30px;
+}
+#chat-input {
+  border-radius: 30px;
+}
+.media-list .row.now-playing {
+  height: 53px;
+  border-bottom: #006EFD 2px solid!important;
+  background: #006FFF!important;
+}
+.media-list .row.now-playing .actions {
+  top: 1px;
+  background: #006FFF;
+}
+#playlist-activate-button span {
+  color: #006CFA;
+  font-weight: bold;
+}
+.icon-pp-small {
+  background-position: -170px -456px;
+}
+.experience .xp .bar .progress {
+  background: rgba(2, 109, 228, 1);
+  border-radius: 1px 2pc;
+}
+.experience .xp .bar {
+    border-radius: 1px 2pc;
+}
+#chat .text a: hover {
+  color: #0071FF;
+}
+#footer-user .buttons .button.store:hover {
+  background: linear-gradient(to bottom,#0A65D2 0,#003B89 100%);
+}
+#footer-user .buttons .button {
+  top: 1px;
+}
+#chat .mention.is-dj, 
+#chat .mention.is-staff {
+  background: linear-gradient(135deg,#0A65D2 0,#0a0a0a 13%,#0a0a0a 100%)!important;
+}
+#user-rollover.is-staff .info .role span {
+  font-weight: bold;
+}
+.user-content.profile .meta.is-staff .role span {
+  color: #1616FF;
+  font-weight: bold;
+}
+#user-lists .list.room .user .icon-chat-cohost + .name {
+  font-weight: bold !important;
+}
+#user-lists .list.room .user .icon-chat-host + .name {
+  font-weight: bold !important;
+}  
+#user-lists .list.room .user .icon-chat-manager + .name {
+  font-weight: bold !important;
+}
+#user-lists .list.room .user .icon-chat-bouncer + .name {
+  font-weight: bold !important;
+}
+#user-lists .list .is-dj .name {
+  font-weight: bold !important;
+}
+#friends-button .request-count {
+  background: #0A65D2;
+}
+#user-menu .item .count {
+  background: #0A65D2;
+}
+#user-friends .tab-menu button .count {
+  background: #0A65D2;
+}
+.media-list.history .score .grabs span {
+  color: #016CFA;
+}
+#footer-user .info .bar .progress {
+    background: #0A65D2;
+    border-radius: 1px 2pc;
+}
+#footer-user .info .meta div.bar {
+    border-radius: 1px 2pc;
+}
+.pop-menu li:hover {
+  background: #00014F;
+}
+#user-lists .list .user:hover {
+  background-color: #00014F;
+}
+#pm-close {
+  background: linear-gradient(hsl(237, 100%, 35%), hsl(239, 100%, 10%));
+  box-shadow: inset 0 0 10px 1px hsl(244, 100%, 20%);
+  border: 1px outset hsl(246, 100%, 20%);
+}
+#pm-close:hover {
+  background: linear-gradient(hsl(214, 99%, 21%), hsl(210, 98%, 37%));
+  box-shadow: inset 0 0 10px 1px hsl(203, 100%, 29%);
+  border: 1px outset hsl(216, 100%, 17%);
+}
+#pm-close.new {
+  background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #6C72DB 100%);
+  box-shadow: 0 0 10px 1px #545ACD !important;
+}
+#pm-close.new:hover {
+  background: linear-gradient(to bottom,rgba(0, 32, 255, 0.1) 0px, #2832DB 100%);
+  box-shadow: 0 0 10px 1px #0D17E2 !important;
+}
+.media-list .row.selected {
+  background: #003171 !important;
+}
+.media-list .selected .actions {
+  background: #003171;
+}
+#chat .welcome {
+  color: #006FFF;
+  font-weight: bold;
+}
+.is-dj .name, .is-staff .name {
+  color: #0A65D2;
+}
+#user-menu .item.selected {
+  background: #0A337C;
+  cursor: default;
+}
+#user-menu .avatar {
+  background: linear-gradient(to bottom,#0024B2 0,#0C1632 56%,#0B0B0B 73%,#73716d 100%);
+}
+.dropdown dd .row:hover {
+  background: rgba(0, 61, 255, 0.26);
+  color: #eee;
+}
+.user-content .grid .cell .top:hover {
+  background: linear-gradient(to bottom,#3563CB 0,#001E5A 56%,#111317 73%,#303030 100%);
+}
+#room-settings-menu .item.selected {
+  background: #001CDD;
+}
+#playlist-import:hover,
+#playlist-create:hover {
+  background: linear-gradient(to bottom,#0003FF 0,#000286 100%)!important;
+}
+#room-settings .general-settings .option button.off {
+  margin-left: 10px;
+  background: #000BDD;
+  color: #eee;
+}
+#chat .text a:hover, a:focus, 
+.origem-menu-heading:focus {
+  text-decoration: none;
+  color: #006eff;
+  transition: 300ms linear 0,1s;
+  outline: 0 none;
+}
+#chat .emote .text {
+    font-style: normal;
+    font-weight: bold;
+    color: #00B2FF;
+}
+#chat .emote {
+  border-left: rgba(55, 0, 255, 1) 3px solid !important;
+  background-color: rgba(0, 101, 255, 0.19) !important;
+}
+#chat .moderation, 
+#chat .moderation .from {
+  color: #0084ff;
+}
+.dialog.destructive .button.submit {
+  background: linear-gradient(to bottom,#000DFF 0,#000B7B 100%);
+}
+.dialog-frame .button.submit {
+  background: linear-gradient(to bottom,#006EFF 0,#0028A5 100%);
+}
+#user-lists .header .button.room i, #user-lists .header .button.staff i {
+  top: 8px;
+  left: 7px;
+} 
+#user-lists .header .button.room.selected {
+  background: linear-gradient(to bottom,#0A65D2 0,#011471 100%);
+}
+#user-lists .header .button.bans.selected, 
+#user-lists .header .button.ignored.selected, 
+#user-lists .header .button.mutes.selected {
+  border-bottom: 0px solid #ac76ff;
+  background: linear-gradient(to bottom,#D00000 0,#4D0000 100%);
+}
+#user-lists .header .button.room.selected {
+  border-bottom: 0px solid #808691;
+}
+#user-lists .header .button {
+  position: relative;
+  top: 0px;
+  float: left;
+  width: 42px;
+  height: 46px;
+  cursor: pointer;
+}
+#user-lists .header .button.staff.selected {
+  border-bottom: 0px solid #ac76ff;
+  background: linear-gradient(to bottom,#9300D0 0,#33004C 100%);
+}
+#user-lists .header .button.trolls span {
+  position: absolute;
+  top: 7px;
+  left: 4px;
+}
+#user-lists .header .button.ignored i {
+  top: 7px;
+  left: 5px;
+}
+#user-lists .header .button.mutes i {
+  top: 7px;
+  left: 6px;
+}
+#footer-user .buttons .button:hover {
+  background: rgba(50, 55, 66, 0);
+}
+#user-lists .header .button.bans i {
+  top: 7px;
+  left: 8px;
+}
+#app-menu, #app-menu .list {
+  position: absolute;
+  background: #1C1F25 !important;
+}
+#filter-bar {
+  top: 7px;
+  right: 7px;
+  width: 125px;
+  height: 41px;
+  background: #111317;
+  box-shadow: inset 0 0 0 1px #444a59;
+  border-radius: 20px;
+}
+.user-content.profile .meta .link .url a, .user-content.profile .meta .link .url a:visited {
+  color: #026DE4;
+  text-decoration: none;
+}
+#history-button {
+  right: 0;
+  width: 54px;
+  background: #1C1F25 !important;
+  box-shadow: inset 0 -2px 0 -1px #0a0a0a;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+#chat .delete-button:hover {
+  background: #0A23D2;
+}
+.user-content.communities button {
+  background: #06298F;
+}
+#waitlist .list.manager .user .meta {
+  left: 43px;
+  width: 286px;
+  border-bottom: 1px solid #0A0A0A !important;
+}
+#user-inventory .avatars .grid .cell.selected .top {
+    background: linear-gradient(to bottom,#0022B7 0,#0D0D58 56%,#1a1a1a 73%,#73716d 100%);
+}
+
+
+/*     STAFF     */
+
+/*MRFALSE*/
+[data-cid^="4635487-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/xZ9XLHc.png')!important;
+    background-position: 0 0;
+}
+/*Tessi Tess*/
+[data-cid^="5477951-"] .badge-box .bdg {
+    background: url('https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1')!important;
+    background-position: 0 0;
+}
+/*ĐAnnY*/
+[data-cid^="4563453-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/guOWP5C.jpg')!important;
+    background-position: 0 0;
+}
+/*Rohlík*/
+[data-cid^="3821094-"] .msg .from .un {
+	position: relative;
+	left:-1px;
+	padding-left:21px;
+	background-image: url('http://i.imgur.com/O1OI87d.gif')!important;
+	background-repeat: no-repeat;
+	background-position: 2px center;
+	background-size: 15px auto
+}
+/*Weriinka*/
+[data-cid^="3959882-"] .badge-box .bdg {
+    background: url('https://i.imgur.com/RqihnJk.png')!important;
+    background-position: 0 0;
+}
+
+/*     VIP     */
+
+/*SiesBicho*/
+[data-cid^="5069104-"] .msg .from .un {
+	position: relative;
+	left:-1px;
+	padding-left:21px;
+	background-image: url('http://i.imgur.com/O1OI87d.gif')!important;
+	background-repeat: no-repeat;
+	background-position: 2px center;
+	background-size: 15px auto
+}
+/*KillManTV*/
+[data-cid^="5790591-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/Phiijog.png')!important;
+    background-position: 0 0;
+}
+/*SAMIK*/
+[data-cid^="3653327-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/VSLaTfq.png')!important;
+    background-position: 0 0;
+}
+/*VVAIN*/
+[data-cid^="5154101-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/D9SENIO.png')!important;
+    background-position: 0 0;
+}
+/**/
