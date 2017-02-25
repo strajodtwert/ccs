@@ -1,4 +1,9 @@
 #footer { opacity: 0.7; }
+#playlist-panel, #history-panel {
+    background: black-transparent;
+    opacity: 0.9;
+    text-shadow: 1px -1px #000;
+}
 .origem-menu-icon {
   background: url('http://i.imgur.com/E1p0cGj.png');
   background-size: 34px;
