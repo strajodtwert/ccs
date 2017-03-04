@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/background/default/custom.jpg",
+        "background": "https://cdn.radiant.dj/rcs/bg/2k14tc.jpg",
         "playback": "https://dl.dropboxusercontent.com/u/88923879/meepplay.png",
         "admin": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Admin.png",
         "ambassador": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png",
