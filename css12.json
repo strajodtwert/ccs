@@ -2,7 +2,7 @@
     "room": "BalkanMusic",
     "author": "strajo98",
     "icon": "https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/room-icon.png",
-    "css": "https://rawgit.com/strajodtwert/ccs/master/rcs.css",
+    "css": "https://raw.githubusercontent.com/strajodtwert/ccs/master/rcs.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
